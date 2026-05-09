@@ -1,4 +1,4 @@
-
+smart FileZilla for macOS Addon | file-sync + batch-transfers offers the most advanced FileZilla for macOS addon, with file-sync and batch-transfers. Ideal for macOS professionals.
 
 
 
